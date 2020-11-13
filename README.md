@@ -11,6 +11,7 @@
   * [Test](Test)
   * [Questions](Questions)
 
+[Link to video demonstration](https://drive.google.com/file/d/1e93bwgnMhm7jqi-4lN2EWITR14xr717C/view?usp=sharing)
   ## Description
     To architect and build a solution for managing a company's employees using node, inquirer, and MySQL. 
 
