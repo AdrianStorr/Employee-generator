@@ -27,7 +27,6 @@
 
   *Update employee roles
   
- Screenshot
 ![Screenshot](./Assets/images/ems.png)
 
   ## Usage Information
