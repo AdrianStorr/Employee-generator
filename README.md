@@ -4,8 +4,8 @@
 
 ## Table of Contents
   - [Description](#Description)
-  - [Usage](#Usage)
   - [Installation](#Installation)
+  - [Usage](#Usage)
   - [License](#License)
   - [Contributors](#contributers)
   - [Test](#Test)
