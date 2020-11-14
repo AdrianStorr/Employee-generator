@@ -27,9 +27,10 @@
 
   *Update employee roles
 
+[Screenshot](./Assets/images/ems.png)
 
   ## Usage Information
- Run npm install,node ems.js in terminal with addition of mysql package to connect my databas and form queries and inquirer.js package to interact with the user using the command-line.
+ Run npm install,node ems.js in terminal with addition of mysql package to connect my database and form queries and inquirer.js package to interact with the user using the command-line.
 
   ## License
   None
