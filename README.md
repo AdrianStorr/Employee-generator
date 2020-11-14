@@ -3,13 +3,13 @@
 [link to Github page](https://github.com/AdrianStorr/Employee-generator)
 
 ## Table of Contents
-  * [Description](Description)
-  * [Usage](Usage)
-  * [Installation](Installation)
-  * [License](License)
-  * [Contributors](contributers)
-  * [Test](Test)
-  * [Questions](Questions)
+  - [Description](#Description)
+  - [Usage](#Usage)
+  - [Installation](#Installation)
+  - [License](#License)
+  - [Contributors](#contributers)
+  - [Test](#Test)
+  - [Questions](#Questions)
 
 [Link to video demonstration](https://drive.google.com/file/d/1e93bwgnMhm7jqi-4lN2EWITR14xr717C/view?usp=sharing)
   ## Description
